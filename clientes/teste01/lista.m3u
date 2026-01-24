@@ -3,65 +3,80 @@
 #EXTINF:-1 tvg-id="AnimeTV" group-title="ANIME", Anime TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SBT" tvg-logo="https://i.imgur.com/vHq4R9b.png" group-title="CANAIS ABERTOS BRASIL", SBT
+#EXTINF:-1 tvg-id="PlutoAnime" group-title="ANIME", Pluto TV Anime
+http://stitcher-ipv4.pluto.tv/stitcher/studio/5da5f5e6a9f5d3000966f060/master.m3u8
+
+#EXTINF:-1 tvg-id="Naruto24h" group-title="ANIME", Naruto 24h
+http://stitcher-ipv4.pluto.tv/stitcher/studio/5e396695240d0500076a9173/master.m3u8
+
+#EXTINF:-1 tvg-id="OnePiece24h" group-title="ANIME", One Piece 24h
+http://stitcher-ipv4.pluto.tv/stitcher/studio/6078652968390b000787ce29/master.m3u8
+
+#EXTINF:-1 tvg-id="YuGiOh" group-title="ANIME", Yu-Gi-Oh! 24h
+http://stitcher-ipv4.pluto.tv/stitcher/studio/5f593b4a23072b00077c5c2d/master.m3u8
+
+#EXTINF:-1 tvg-id="AnimeAcao" group-title="ANIME", Pluto TV Anime Ação
+http://stitcher-ipv4.pluto.tv/stitcher/studio/6078651a56114a000790103b/master.m3u8
+
+#EXTINF:-1 tvg-id="SBT" tvg-logo="https://i.imgur.com/vHq4R9b.png" group-title="CANAIS ABERTOS", SBT
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVCultura" group-title="CANAIS ABERTOS BRASIL", TV Cultura
+#EXTINF:-1 tvg-id="TVCultura" group-title="CANAIS ABERTOS", TV Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 
-#EXTINF:-1 tvg-id="RecordNews" group-title="NOTICIAS BRASIL", Record News
+#EXTINF:-1 tvg-id="RecordNews" group-title="NOTICIAS", Record News
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
 
-#EXTINF:-1 tvg-id="COM_Brasil" tvg-logo="https://i.imgur.com/u0E0R1E.png" group-title="CANAIS ABERTOS BRASIL", COM Brasil
+#EXTINF:-1 tvg-id="COM_Brasil" tvg-logo="https://i.imgur.com/u0E0R1E.png" group-title="CANAIS ABERTOS", COM Brasil
 https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ISTV" group-title="CANAIS ABERTOS BRASIL", ISTV
+#EXTINF:-1 tvg-id="ISTV" group-title="CANAIS ABERTOS", ISTV
 https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8
 
-#EXTINF:-1 tvg-id="RedeBrasil" group-title="CANAIS ABERTOS BRASIL", Rede Brasil
+#EXTINF:-1 tvg-id="RedeBrasil" group-title="CANAIS ABERTOS", Rede Brasil
 https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AgroBrasil" group-title="CANAIS ABERTOS BRASIL", AgroBrasil TV
-http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVERS" group-title="CANAIS ABERTOS BRASIL", TVE RS
-http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Futura" group-title="EDUCATIVOS", Futura
 https://tv.unisc.br/hls/test.m3u8
 
+#EXTINF:-1 tvg-id="AgroBrasil" group-title="CANAIS ABERTOS", AgroBrasil TV
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVERS" group-title="CANAIS ABERTOS", TVE RS
+http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TVCamara" group-title="PUBLICOS", TV Câmara
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
-#EXTINF:-1 group-title="SERVIDORES INTERNACIONAIS (VIP)", Servidor 146
+#EXTINF:-1 group-title="VIP CORD-CUTTER", Servidor 146
 http://cord-cutter.net:8080/get.php?username=100974831&password=100974831&type=m3u_plus
 
-#EXTINF:-1 group-title="SERVIDORES INTERNACIONAIS (VIP)", Servidor 147
+#EXTINF:-1 group-title="VIP CORD-CUTTER", Servidor 147
 http://cord-cutter.net:8080/get.php?username=134152079&password=134152079&type=m3u_plus
 
-#EXTINF:-1 group-title="SERVIDORES INTERNACIONAIS (VIP)", Servidor 151
+#EXTINF:-1 group-title="VIP CORD-CUTTER", Servidor 151
 http://cord-cutter.net:8080/get.php?username=2145165799&password=eddelley31@yahoo.com&type=m3u_plus
 
-#EXTINF:-1 group-title="SERVIDORES INTERNACIONAIS (VIP)", Servidor 174 (Premium 2025)
+#EXTINF:-1 group-title="VIP CORD-CUTTER", Servidor 174 (2025)
 http://cord-cutter.net:8080/get.php?username=Kendrickdeal@outlook.com&password=Kendrickdeal@2025&type=m3u_plus
 
-#EXTINF:-1 group-title="SERVIDORES INTERNACIONAIS (VIP)", Servidor 182
+#EXTINF:-1 group-title="VIP CORD-CUTTER", Servidor 182
 http://cord-cutter.net:8080/get.php?username=Sustainable2@ogbtv.com&password=0528@1994&type=m3u_plus
 
-#EXTINF:-1 group-title="SERVIDORES INTERNACIONAIS (VIP)", Servidor 191
+#EXTINF:-1 group-title="VIP CORD-CUTTER", Servidor 191
 http://cord-cutter.net:8080/get.php?username=chelo@chelo.ca&password=qwertyuiop&type=m3u_plus
 
-#EXTINF:-1 group-title="SERVIDORES INTERNACIONAIS (VIP)", Servidor 194
+#EXTINF:-1 group-title="VIP CORD-CUTTER", Servidor 194
 http://cord-cutter.net:8080/get.php?username=deadman1966@outlook.com&password=deadman1966@2023&type=m3u_plus
 
-#EXTINF:-1 group-title="SERVIDORES IMAX (VIP)", Servidor 218
+#EXTINF:-1 group-title="VIP IMAX", Servidor 218
 http://imaxplay.net:2082/get.php?username=ALI202366&password=PYWPF&type=m3u_plus
 
-#EXTINF:-1 group-title="SERVIDORES IMAX (VIP)", Servidor 239
+#EXTINF:-1 group-title="VIP IMAX", Servidor 239
 http://imaxplay.net:2082/get.php?username=Cliente101&password=KSDHzEthB8&type=m3u_plus
 
-#EXTINF:-1 group-title="SERVIDORES IMAX (VIP)", Servidor 277
+#EXTINF:-1 group-title="VIP IMAX", Servidor 277
 http://imaxplay.net:2082/get.php?username=LorenzoLopez01&password=GJGJZ&type=m3u_plus
 
-#EXTINF:-1 group-title="SERVIDORES IMAX (VIP)", Servidor 282
+#EXTINF:-1 group-title="VIP IMAX", Servidor 282
 http://imaxplay.net:2082/get.php?username=MarioB08&password=gSLmZyw3gr&type=m3u_plus
